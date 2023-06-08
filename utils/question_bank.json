@@ -1,0 +1,427 @@
+{
+    "flashcards": [
+        {
+            "question": "What is the process of converting high-level language code into machine-readable instructions?",
+            "correct_answer": "Compilation",
+            "incorrect_answers": [
+                "Interpreting",
+                "Lexis",
+                "Syntax"
+            ],
+        },
+        {
+            "question": "Which term refers to the vocabulary of a programming language?",
+            "correct_answer": "Lexis",
+            "incorrect_answers": [
+                "Semantics",
+                "Interpreting",
+                "Compilation"
+            ],
+        },
+        {
+            "question": "What is the structure or rules that define the valid combinations of symbols in a programming language?",
+            "correct_answer": "Syntax",
+            "incorrect_answers": [
+                "Semantics",
+                "Interpreting",
+                "Compilation"
+            ],
+        },å
+        {
+            "question": "Which of the following are valid Python keywords?",
+            "correct_answer": "Keywords",
+            "incorrect_answers": [
+                "Indentation",
+                "Instructions",
+                "Comments"
+            ],
+        },
+        {
+            "question": "Which element in Python is used to indicate the beginning and end of a block of code?",
+            "correct_answer": "Indentation",
+            "incorrect_answers": [
+                "Keywords",
+                "Instructions",
+                "Comments"
+            ],
+        },
+        {
+            "question": "Which element in Python is used to provide additional explanations or annotations within the code?",
+            "correct_answer": "Comments",
+            "incorrect_answers": [
+                "Keywords",
+                "Instructions",
+                "Indentation"
+            ],
+        },
+        {
+            "question": "Which type of literals represent true or false values in Python?",
+            "correct_answer": "Boolean",
+            "incorrect_answers": [
+                "Integers",
+                "Floating-point numbers",
+                "Scientific notation",
+            ],
+        },
+        {
+            "question": "Which type of literals represent whole numbers in Python?",
+            "correct_answer": "Integers",
+            "incorrect_answers": [
+                "Boolean",
+                "Floating-point numbers",
+                "Scientific notation",
+            ],
+        },
+        {
+            "question": "Which type of literals represent decimal numbers in Python?",
+            "correct_answer": "Floating-point numbers",
+            "incorrect_answers": [
+                "Boolean",
+                "Integers",
+                "Scientific notation"
+            ],
+        },
+        {
+            "question": "Which numeral system uses only two digits, 0 and 1?",
+            "correct_answer": "Binary",
+            "incorrect_answers": [
+                "Octal",
+                "Decimal",
+                "Hexadecimal"
+            ],
+        },
+        {
+            "question": "Which numeral system uses eight digits, 0-7?",
+            "correct_answer": "Octal",
+            "incorrect_answers": [
+                "Binary",
+                "Decimal",
+                "Hexadecimal"
+            ],
+        },
+        {
+            "question": "Which numeral system uses ten digits, 0-9?",
+            "correct_answer": "Decimal",
+            "incorrect_answers": [
+                "Binary",
+                "Octal",
+                "Hexadecimal"
+            ],
+        },
+        {
+            "question": "Which numeral system uses sixteen digits, 0-9 and A-F?",
+            "correct_answer": "Hexadecimal",
+            "incorrect_answers": [
+                "Binary",
+                "Octal",
+                "Decimal"
+            ],
+        },
+        {
+            "question": "Which element in Python is used to store values that can be accessed and manipulated in the code?",
+            "correct_answer": "Variables",
+            "incorrect_answers": [
+                "Numeric operators",
+                "String operators",
+                "Assignment operators",
+            ],
+        },
+        {
+            "question": "Which conventions are commonly followed for naming variables in Python?",
+            "correct_answer": "Naming conventions",
+            "incorrect_answers": [
+                "Numeric operators",
+                "String operators",
+                "Assignment operators",
+            ],
+        },
+        {
+            "question": "Which element in Python is used to implement recommendations for code formatting and style?",
+            "correct_answer": "Implementing PEP-8 recommendations",
+            "incorrect_answers": [
+                "Numeric operators",
+                "String operators",
+                "Assignment operators",
+            ],
+        },
+        {
+            "question": "Which type of operators are used to perform mathematical calculations in Python?",
+            "correct_answer": "Numeric operators",
+            "incorrect_answers": [
+                "String operators",
+                "Assignment operators",
+                "Unary operators",
+            ],
+        },
+        {
+            "question": "Which type of operators are used to concatenate or repeat strings in Python?",
+            "correct_answer": "String operators",
+            "incorrect_answers": [
+                "Numeric operators",
+                "Assignment operators",
+                "Unary operators",
+            ],
+        },
+        {
+            "question": "Which type of operators are used to assign values or perform calculations with previously assigned values in Python?",
+            "correct_answer": "Assignment operators",
+            "incorrect_answers": [
+                "Numeric operators",
+                "String operators",
+                "Unary operators",
+            ],
+        },
+        {
+            "question": "Which type of operators require only one operand in Python?",
+            "correct_answer": "Unary operators",
+            "incorrect_answers": [
+                "Numeric operators",
+                "String operators",
+                "Assignment operators",
+            ],
+        },
+        {
+            "question": "Which type of operators require two operands in Python?",
+            "correct_answer": "Binary operators",
+            "incorrect_answers": [
+                "Numeric operators",
+                "String operators",
+                "Assignment operators",
+            ],
+        },
+        {
+            "question": "Which term refers to the rules that determine the order of execution of operators in an expression?",
+            "correct_answer": "Priorities and binding",
+            "incorrect_answers": [
+                "Numeric operators",
+                "String operators",
+                "Assignment operators",
+            ],
+        },
+        {
+            "question": "Which type of operators are used to perform bitwise operations on binary numbers in Python?",
+            "correct_answer": "Bitwise operators",
+            "incorrect_answers": [
+                "Numeric operators",
+                "String operators",
+                "Assignment operators",
+            ],
+        },
+        {
+            "question": "Which bitwise operator in Python flips the bits of a number?",
+            "correct_answer": "Tilde ()",
+            "incorrect_answers": [
+                "Ampersand (&)",
+                "Caret (^)",
+                "Pipe (|)"
+            ],
+        },
+        {
+            "question": "Which bitwise operator in Python performs bitwise AND operation on two numbers?",
+            "correct_answer": "Ampersand (&)",
+            "incorrect_answers": [
+                "Tilde ()",
+                "Caret (^)",
+                "Pipe (|)"
+            ],
+        },
+        {
+            "question": "Which bitwise operator in Python performs bitwise XOR (exclusive OR) operation on two numbers?",
+            "correct_answer": "Caret (^)",
+            "incorrect_answers": [
+                "Tilde ()",
+                "Ampersand (&)",
+                "Pipe (|)"
+            ],
+        },
+        {
+            "question": "Which bitwise operator in Python performs bitwise OR operation on two numbers?",
+            "correct_answer": "Pipe (|)",
+            "incorrect_answers": [
+                "Tilde ()",
+                "Ampersand (&)",
+                "Caret (^)"
+            ],
+        },
+        {
+            "question": "Which bitwise operator in Python shifts the bits of a number to the left?",
+            "correct_answer": "Double less-than (<<)",
+            "incorrect_answers": [
+                "Double greater-than (>>)",
+                "Tilde ()",
+                "Ampersand (&)",
+            ],
+        },
+        {
+            "question": "Which bitwise operator in Python shifts the bits of a number to the right?",
+            "correct_answer": "Double greater-than (>>)",
+            "incorrect_answers": [
+                "Double less-than (<<)",
+                "Tilde ()",
+                "Ampersand (&)"
+            ],
+        },
+        {
+            "question": "Which logical operator in Python returns the opposite of the given boolean value?",
+            "correct_answer": "not",
+            "incorrect_answers": [
+                "and",
+                "or",
+                "xor"
+            ],
+        },
+        {
+            "question": "Which logical operator in Python returns True if both boolean values are True?",
+            "correct_answer": "and",
+            "incorrect_answers": [
+                "not",
+                "or",
+                "xor"
+            ],
+        },
+        {
+            "question": "Which logical operator in Python returns True if at least one of the boolean values is True?",
+            "correct_answer": "or",
+            "incorrect_answers": [
+                "not",
+                "and",
+                "xor"
+            ],
+        },
+        {
+            "question": "Which logical operator in Python returns True if the boolean values are different?",
+            "correct_answer": "xor",
+            "incorrect_answers": [
+                "not",
+                "and",
+                "or"
+            ],
+        },
+        {
+            "question": "Which operator is used to compare if two values are equal in Python?",
+            "correct_answer": "==",
+            "incorrect_answers": [
+                "!=",
+                ">",
+                ">="
+            ],
+        },
+        {
+            "question": "Which operator is used to compare if two values are not equal in Python?",
+            "correct_answer": "!=",
+            "incorrect_answers": [
+                "==",
+                ">",
+                ">="
+            ],
+        },
+        {
+            "question": "Which operator is used to compare if the left value is greater than the right value in Python?",
+            "correct_answer": ">",
+            "incorrect_answers": [
+                "==",
+                "!=",
+                ">="
+            ],
+        },
+        {
+            "question": "Which operator is used to compare if the left value is greater than or equal to the right value in Python?",
+            "correct_answer": ">=",
+            "incorrect_answers": [
+                "==",
+                "!=",
+                ">"
+            ],
+        },
+        {
+            "question": "Which operator is used to compare if the left value is less than the right value in Python?",
+            "correct_answer": "<",
+            "incorrect_answers": [
+                "==",
+                "!=",
+                "<="
+            ],
+        },
+        {
+            "question": "Which operator is used to compare if the left value is less than or equal to the right value in Python?",
+            "correct_answer": "<=",
+            "incorrect_answers": [
+                "==",
+                "!=",
+                "<"
+            ],
+        },
+        {
+            "question": "What should you be aware of when using floating-point numbers in Python?",
+            "correct_answer": "The accuracy of floating-point numbers",
+            "incorrect_answers": [
+                "The precision of floating-point numbers",
+                "The scale of floating-point numbers",
+                "The range of floating-point numbers",
+            ],
+        },
+        {
+            "question": "Which process allows you to convert one data type to another in Python?",
+            "correct_answer": "Type casting",
+            "incorrect_answers": [
+                "Type conversion",
+                "Type declaration",
+                "Type definition",
+            ],
+        },
+        {
+            "question": "Which function in Python is used to output data to the console?",
+            "correct_answer": "print()",
+            "incorrect_answers": [
+                "input()",
+                "sep=",
+                "end="
+            ],
+        },
+        {
+            "question": "Which function in Python is used to take user input from the console?",
+            "correct_answer": "input()",
+            "incorrect_answers": [
+                "print()",
+                "sep=",
+                "end="
+            ],
+        },
+        {
+            "question": "Which keyword parameter in the print() function is used to separate multiple arguments in the output?",
+            "correct_answer": "sep=",
+            "incorrect_answers": [
+                "print()",
+                "input()",
+                "end="
+            ],
+        },
+        {
+            "question": "Which keyword parameter in the print() function is used to specify the ending character in the output?",
+            "correct_answer": "end=",
+            "incorrect_answers": [
+                "print()",
+                "input()",
+                "sep="
+            ],
+        },
+        {
+            "question": "Which function in Python is used to convert a value to an integer?",
+            "correct_answer": "int()",
+            "incorrect_answers": [
+                "float()",
+                "str()",
+                "bool()"
+            ],
+        },
+        {
+            "question": "Which function in Python is used to convert a value to a floating-point number?",
+            "correct_answer": "float()",
+            "incorrect_answers": [
+                "int()",
+                "str()",
+                "bool()"
+            ],
+        },
+    ]
+}

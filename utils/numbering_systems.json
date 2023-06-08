@@ -1,0 +1,481 @@
+{
+    "flashcards": [
+        {
+            "question": "What is the binary representation of the decimal number 10?",
+            "correct answer": "1010",
+            "incorrect answers": [
+                "1001",
+                "1100",
+                "1111"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the binary number 110010?",
+            "correct answer": "62",
+            "incorrect answers": [
+                "46",
+                "54",
+                "72"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the decimal number 255?",
+            "correct answer": "FF",
+            "incorrect answers": [
+                "CC",
+                "A7",
+                "EE"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the binary number 1101?",
+            "correct answer": "13",
+            "incorrect answers": [
+                "7",
+                "9",
+                "11"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the octal number 32?",
+            "correct answer": "26",
+            "incorrect answers": [
+                "18",
+                "23",
+                "29"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the hexadecimal number B5?",
+            "correct answer": "181",
+            "incorrect answers": [
+                "157",
+                "195",
+                "210"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the octal number 17?",
+            "correct answer": "1111",
+            "incorrect answers": [
+                "1001",
+                "1010",
+                "1100"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the hexadecimal number D0?",
+            "correct answer": "11010000",
+            "incorrect answers": [
+                "10010000",
+                "10100000",
+                "11100000"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the decimal number 42?",
+            "correct answer": "52",
+            "incorrect answers": [
+                "26",
+                "34",
+                "63"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the binary number 111000?",
+            "correct answer": "70",
+            "incorrect answers": [
+                "35",
+                "46",
+                "63"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the binary number 10101010?",
+            "correct answer": "AA",
+            "incorrect answers": [
+                "CC",
+                "BB",
+                "DD"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the decimal number 4095?",
+            "correct answer": "FFF",
+            "incorrect answers": [
+                "AAA",
+                "CCC",
+                "DDD"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the binary number 10101?",
+            "correct answer": "21",
+            "incorrect answers": [
+                "14",
+                "18",
+                "23"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the octal number 75?",
+            "correct answer": "61",
+            "incorrect answers": [
+                "43",
+                "54",
+                "67"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the hexadecimal number 2F?",
+            "correct answer": "47",
+            "incorrect answers": [
+                "35",
+                "42",
+                "51"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the octal number 27?",
+            "correct answer": "10111",
+            "incorrect answers": [
+                "11001",
+                "11100",
+                "11111"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the hexadecimal number 8C?",
+            "correct answer": "10001100",
+            "incorrect answers": [
+                "10010000",
+                "11000011",
+                "11100110"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the decimal number 56?",
+            "correct answer": "70",
+            "incorrect answers": [
+                "34",
+                "45",
+                "63"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the binary number 101001?",
+            "correct answer": "51",
+            "incorrect answers": [
+                "22",
+                "33",
+                "42"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the binary number 11001100?",
+            "correct answer": "CC",
+            "incorrect answers": [
+                "AA",
+                "BB",
+                "DD"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the decimal number 1023?",
+            "correct answer": "3FF",
+            "incorrect answers": [
+                "2AA",
+                "4CC",
+                "5EE"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the binary number 110110?",
+            "correct answer": "54",
+            "incorrect answers": [
+                "36",
+                "45",
+                "63"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the octal number 63?",
+            "correct answer": "51",
+            "incorrect answers": [
+                "33",
+                "42",
+                "57"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the hexadecimal number 5A?",
+            "correct answer": "90",
+            "incorrect answers": [
+                "68",
+                "74",
+                "81"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the octal number 37?",
+            "correct answer": "1111",
+            "incorrect answers": [
+                "1001",
+                "1010",
+                "1100"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the hexadecimal number A3?",
+            "correct answer": "10100011",
+            "incorrect answers": [
+                "10010011",
+                "11000011",
+                "11100101"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the decimal number 68?",
+            "correct answer": "104",
+            "incorrect answers": [
+                "44",
+                "57",
+                "72"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the binary number 101101?",
+            "correct answer": "55",
+            "incorrect answers": [
+                "26",
+                "37",
+                "63"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the binary number 11110011?",
+            "correct answer": "F3",
+            "incorrect answers": [
+                "AA",
+                "BB",
+                "CC"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the decimal number 2047?",
+            "correct answer": "7FF",
+            "incorrect answers": [
+                "5AA",
+                "6CC",
+                "8EE"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the binary number 11100?",
+            "correct answer": "28",
+            "incorrect answers": [
+                "19",
+                "23",
+                "34"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the octal number 73?",
+            "correct answer": "59",
+            "incorrect answers": [
+                "42",
+                "67",
+                "82"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the hexadecimal number F1?",
+            "correct answer": "241",
+            "incorrect answers": [
+                "178",
+                "209",
+                "222"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the octal number 65?",
+            "correct answer": "110101",
+            "incorrect answers": [
+                "100101",
+                "101010",
+                "111001"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the hexadecimal number B9?",
+            "correct answer": "10111001",
+            "incorrect answers": [
+                "10011001",
+                "11000011",
+                "11100101"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the decimal number 89?",
+            "correct answer": "131",
+            "incorrect answers": [
+                "68",
+                "102",
+                "176"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the binary number 101110?",
+            "correct answer": "56",
+            "incorrect answers": [
+                "27",
+                "43",
+                "75"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the binary number 11111111?",
+            "correct answer": "FF",
+            "incorrect answers": [
+                "CC",
+                "AA",
+                "EE"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the decimal number 4096?",
+            "correct answer": "1000",
+            "incorrect answers": [
+                "AAA",
+                "CCC",
+                "DDD"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the binary number 1010011?",
+            "correct answer": "83",
+            "incorrect answers": [
+                "52",
+                "66",
+                "97"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the octal number 100?",
+            "correct answer": "64",
+            "incorrect answers": [
+                "32",
+                "48",
+                "96"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the hexadecimal number 3D?",
+            "correct answer": "61",
+            "incorrect answers": [
+                "43",
+                "54",
+                "78"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the octal number 55?",
+            "correct answer": "101101",
+            "incorrect answers": [
+                "100101",
+                "110010",
+                "111011"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the hexadecimal number 7A?",
+            "correct answer": "1111010",
+            "incorrect answers": [
+                "1001010",
+                "1100100",
+                "1010110"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the decimal number 97?",
+            "correct answer": "141",
+            "incorrect answers": [
+                "62",
+                "115",
+                "213"
+            ]
+        },
+        {
+            "question": "What is the octal representation of the binary number 1101101?",
+            "correct answer": "155",
+            "incorrect answers": [
+                "64",
+                "103",
+                "206"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the binary number 10110101?",
+            "correct answer": "B5",
+            "incorrect answers": [
+                "A3",
+                "C9",
+                "D7"
+            ]
+        },
+        {
+            "question": "What is the hexadecimal representation of the decimal number 8191?",
+            "correct answer": "1FFF",
+            "incorrect answers": [
+                "AAAF",
+                "CCCC",
+                "EEEE"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the binary number 100001?",
+            "correct answer": "33",
+            "incorrect answers": [
+                "18",
+                "24",
+                "39"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the octal number 117?",
+            "correct answer": "79",
+            "incorrect answers": [
+                "38",
+                "56",
+                "92"
+            ]
+        },
+        {
+            "question": "What is the decimal equivalent of the hexadecimal number A7?",
+            "correct answer": "167",
+            "incorrect answers": [
+                "122",
+                "198",
+                "215"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the octal number 77?",
+            "correct answer": "111111",
+            "incorrect answers": [
+                "100111",
+                "110010",
+                "101011"
+            ]
+        },
+        {
+            "question": "What is the binary representation of the hexadecimal number F5?",
+            "correct answer": "11110101",
+            "incorrect answers": [
+                "10010101",
+                "11001001",
+                "10101101"
+            ]
+        }
+    ]
+}
