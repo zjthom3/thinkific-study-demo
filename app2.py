@@ -88,8 +88,8 @@ def main():
     
     else:
         # Get the question from the randomly selected flashcard
-        # st.write(st.session_state['random_flashcard']['question'])
         question = st.session_state['random_flashcard']['question']
+        explanation = st.session_state['random_flashcard']["explanation"]
 
         # Reset the submitted state for the next flashcard
         st.session_state["submitted"] = False
@@ -117,6 +117,7 @@ def main():
             st.markdown(f"_{question}_")
             st.markdown("Oops! You have chosen the incorrect answer.")
             st.markdown(f"The correct answer is: **{st.session_state['correct answer']}**")
+            st.markdown(f"{explanation}")
 
         # Display a button for the next flashcard
         st.button("Next")
