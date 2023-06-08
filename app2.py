@@ -70,10 +70,10 @@ def main():
     # Display the number of flashcards remaining in the deck
     st.write("There are", len(st.session_state['flashcard_deck']), "more cards in this deck!")
 
-    if len(st.session_state['flashcard_deck']) == 0:
-        # Display a warning message if there are no flashcards
-        st.warning("No flashcards found. Please check the flashcard file.")
-        return
+    # if len(st.session_state['flashcard_deck']) == 0:
+    #     # Display a warning message if there are no flashcards
+    #     st.warning("No flashcards found. Please check the flashcard file.")
+    #     return
 
     if not st.session_state['submitted']:
         # Randomly select and display a flashcard initially
